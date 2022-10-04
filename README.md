@@ -72,6 +72,33 @@
 
 ###
 
+<h2 align="left">Old Stuff (archived)</h2>
+
+<table style="border: none; border-color: transparent;">
+    <tbody>
+        <tr>
+            <td>
+                <span>
+                    <h3><a href="https://github.com/alessiovierti/youtube-clickbait-detector">Youtube Clickbait Detector</a></h3>
+                    <p>Detect clickbait Youtube videos from their title with an F1 score of 96%</p>
+                    <p style="font-size: small">Python, Scikit Learn, Machine Learning</p>
+                </span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span>
+                    <h3><a href="https://github.com/alessiovierti/blindpie">Time Based SQLi Exploitation</a></h3>
+                    <p>Automatically exploit Time Based SQL injection vulnerabilities</p>
+                    <p style="font-size: small">Python, Web Security</p>
+                </span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+###
+
 <h2 align="left">Contacts</h2>
 
 <div align="left">
