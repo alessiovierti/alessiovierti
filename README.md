@@ -23,7 +23,7 @@
 ```
     A minimal web app for taking quick notes on a world map.
 
-    Tech Stack: React, Typescript, TailwindCSS, AWS Lambda, DynamoDB, Cloudfront, Cloudformation
+    Tech Stack: React, Typescript, TailwindCSS, Cloudflare Pages
 ```
 
 [rentalo!](https://d2ridskegy1euv.cloudfront.net)
