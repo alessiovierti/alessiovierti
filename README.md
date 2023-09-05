@@ -1,8 +1,15 @@
-### Alessio Vierti, Software Engineer from Turin, Italy
+### Alessio Vierti, Software Engineer
 
 ![banner](https://res.cloudinary.com/dfg0d7qcq/image/upload/v1667730914/Bright_Green_Dark_Green_IT_or_Software_Bright_and_Minimal_LinkedIn_Banner_5_f98lwh.png)
 
 ### Latest stuff
+
+[stamane.it](https://stamane.it)
+```
+    A news aggregator that automatically picks the most relevant news and summarizes them
+    
+    Tech Stack: GPT, Jekyll, TailwindCSS, Spring Boot, Kotlin
+```
 
 [justshrink.it](https://justshrink.it)
 
