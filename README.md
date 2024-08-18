@@ -1,7 +1,5 @@
 ### Alessio Vierti, Software Engineer
 
-![banner](https://res.cloudinary.com/dfg0d7qcq/image/upload/v1667730914/Bright_Green_Dark_Green_IT_or_Software_Bright_and_Minimal_LinkedIn_Banner_5_f98lwh.png)
-
 ### Latest stuff
 
 [stamane.it](https://stamane.it)
@@ -33,14 +31,14 @@
     Tech Stack: React, Typescript, TailwindCSS, Cloudflare Pages
 ```
 
-[rentalo!](https://d2ridskegy1euv.cloudfront.net)
+[rentalo! (ARCHIVED)]
 ```
     Proof of concept for a rental marketplace for any kind of storage space.
 
     Tech Stack: React, Typescript, TailwindCSS, AWS Lambda, DynamoDB, Cloudfront, Cloudformation
 ```
 
-### Old stuff
+### Old stuff (ARCHIVED)
 
 [youtube-clickbait-detection](https://github.com/alessiovierti/youtube-clickbait-detector)
 ```
