@@ -31,7 +31,7 @@
     Tech Stack: React, Typescript, TailwindCSS, Cloudflare Pages
 ```
 
-[rentalo! (ARCHIVED)]
+rentalo! (ARCHIVED)
 ```
     Proof of concept for a rental marketplace for any kind of storage space.
 
