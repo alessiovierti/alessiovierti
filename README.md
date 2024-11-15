@@ -2,6 +2,14 @@
 
 ### Latest stuff
 
+[parqsight.com](parqsight.com)
+```
+    Traffic & parking spot analysis based on satellite images
+
+    Tech Stack: YOLO, Google Maps APIs, Python, TailwindCSS
+```
+
+
 [stamane.it](https://stamane.it)
 ```
     A news aggregator that automatically picks the most relevant news and summarizes them
