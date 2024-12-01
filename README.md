@@ -4,7 +4,7 @@
 
 [Code Review Tools](https://plugins.jetbrains.com/plugin/25932-code-review-tools) - Nov 2024 -> now
 ```
-    A plugin for JetBrains IDEs to simplify code reviews, documentation, and knowledge sharing by creating Markdown notes for your code with snippets links
+    A plugin for JetBrains IDEs to simplify code reviews, documentation, and knowledge sharing
 
     Tech Stack: Kotlin, JetBrains SDK
 ```
