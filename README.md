@@ -2,7 +2,13 @@
 
 ### What I've been working on 
 
-[Code Review Tools](https://plugins.jetbrains.com/plugin/25932-code-review-tools) - Nov 2024 -> now
+[Chromatrail](https://chromatrail.pages.dev)
+```
+    A minimalistic puzzle game where you have to figure out the rules yourself
+```
+
+
+[Code Review Tools](https://plugins.jetbrains.com/plugin/25932-code-review-tools) - Nov 2024 -> Dec 2024
 ```
     A plugin for JetBrains IDEs to simplify code reviews, documentation, and knowledge sharing
 
