@@ -16,7 +16,7 @@
 ```
 
 
-[parqsight.com](parqsight.com) - Nov 2024 -> Nov 2024
+[parqsight.com](https://parqsight.com) - Nov 2024 -> Nov 2024
 ```
     Traffic & parking spot analysis based on satellite images
 
