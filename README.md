@@ -2,9 +2,18 @@
 
 ### What I've been working on 
 
+[untitled-puzzle-game](https://untitledpuzzlegame.pages.dev) - May 2025 -> May 2025
+```
+    A minimalistic puzzle game based on chess rules, with Baba Is You mechanics
+
+    Tech Stack: Typescript, Phaser
+```
+
 [Chromatrail](https://chromatrail.pages.dev) - Apr 2025 -> Apr 2025
 ```
     A minimalistic puzzle game where you have to figure out the rules yourself
+
+    Tech Stack: Typescript
 ```
 
 
